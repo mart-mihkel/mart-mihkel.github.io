@@ -1,8 +1,18 @@
 import researchersRaw from "./md/reserachers.md?raw";
 import theRaw from "./md/the.md?raw";
+import benchRaw from "./md/bench.md?raw";
 import type { Post, PostMeta } from "./types";
 
 const posts: Post[] = [
+  {
+    slug: "bench",
+    title: "Benches",
+    date: "May 2026",
+    status: "Standards Track",
+    author: "Janar Kootikum",
+    abstract: "Here we see the greatest of them",
+    content: benchRaw,
+  },
   {
     slug: "the",
     title: "The",
