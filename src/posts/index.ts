@@ -1,4 +1,5 @@
-import theRaw from "./the.md?raw";
+import researchersRaw from "./md/reserachers.md?raw";
+import theRaw from "./md/the.md?raw";
 import type { Post, PostMeta } from "./types";
 
 const posts: Post[] = [
@@ -11,6 +12,15 @@ const posts: Post[] = [
     abstract:
       "This is the um, the like you know it sometimes, there are like um. When there's like one of those, the you know. Yeah I guess hmm, so as you can see.",
     content: theRaw,
+  },
+  {
+    slug: "researchers",
+    title: "Researchers",
+    date: "June 2026",
+    status: "Experimental",
+    author: "Kalmer Kalamees",
+    abstract: "Might aswell not",
+    content: researchersRaw,
   },
 ];
 

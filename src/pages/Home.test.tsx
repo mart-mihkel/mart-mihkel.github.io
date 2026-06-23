@@ -19,9 +19,7 @@ describe("Home", () => {
   it("renders author and status metadata", () => {
     render(() => <Home />, { wrapper: RouterWrapper });
     expect(screen.getByText("Active")).toBeDefined();
-    expect(
-      screen.getAllByText("Gregor Granaat").length,
-    ).toBeGreaterThan(0);
+    expect(screen.getAllByText("Gregor Granaat").length).toBeGreaterThan(0);
   });
 
   it("renders links to all posts", () => {
