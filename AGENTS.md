@@ -19,7 +19,7 @@ Order: `pnpm check` → `pnpm tsgo` → `pnpm test` → `pnpm build`
 - **Posts**: Markdown in `src/posts/`, imported with `?raw`. Statically registered in `src/posts/index.ts`
 - **Markdown**: Rendered client-side via `marked` in `Post.tsx`
 - **Tailwind v4**: `@import "tailwindcss"`, no `@tailwind` directives
-- **Prose styling**: Custom `.prose-custom` in `src/index.css`
+- **Prose styling**: Custom `.prose-custom` for markdown in `src/index.css`
 
 ## Quirks
 

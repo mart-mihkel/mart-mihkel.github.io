@@ -1,6 +1,6 @@
+import benchRaw from "./md/bench.md?raw";
 import researchersRaw from "./md/reserachers.md?raw";
 import theRaw from "./md/the.md?raw";
-import benchRaw from "./md/bench.md?raw";
 import type { Post, PostMeta } from "./types";
 
 const posts: Post[] = [

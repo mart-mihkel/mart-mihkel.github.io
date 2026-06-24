@@ -32,6 +32,12 @@ function Home() {
 
         <h2 class="font-bold mb-2">Abstract</h2>
         <p>This is the, as you see it's here.</p>
+
+        <div class="mt-6 pt-4 border-t border-stone-300">
+          <A href="/wordle" class="text-xs text-stone-500 hover:underline">
+            Play Wordle →
+          </A>
+        </div>
       </div>
 
       <div class="space-y-6">
