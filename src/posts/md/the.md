@@ -10,6 +10,9 @@
 > Mulle paistab küll lihtne!
 > \- Mihkel Majameister
 
+> Siin on rahvast rohkem kui inimesi!
+> \- Kustu Sära
+
 > Vesi läks **vihast** keema!
 > \- Priit Pagan
 
@@ -42,6 +45,9 @@
 
 > Parim aeg majoneesi ostmiseks on aprill, sest **mai on ees**!
 > \- Marko Majonees
+
+> Tal on raha rohkem kui sente.
+> \- Heiki Hakkliha
 
 > Leedu hernes elab **kauna sees**!
 > \- Ledunars Ladrunas
